@@ -1,3 +1,5 @@
+# function to add an element to a stack (list)
+
 list = [303,50.89,79]
 
 def add_element_stack(list):
